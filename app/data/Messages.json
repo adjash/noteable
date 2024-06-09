@@ -1,0 +1,60 @@
+{
+    "notes": [
+      {
+        "id": 1,
+        "title": "Meeting with Project Team",
+        "previewText": "Discussed project timelines, assigned new tasks, and reviewed the upcoming milestones for Q3."
+      },
+      {
+        "id": 2,
+        "title": "Client Feedback",
+        "previewText": "Received positive feedback from the client on the recent delivery, with a few suggestions for improvement."
+      },
+      {
+        "id": 3,
+        "title": "Weekly Standup",
+        "previewText": "Updated the team on the progress of ongoing tasks, blockers faced, and plans for the next sprint."
+      },
+      {
+        "id": 4,
+        "title": "Budget Review",
+        "previewText": "Analyzed current budget expenditure and planned the budget allocation for the next quarter."
+      },
+      {
+        "id": 5,
+        "title": "Team Building Activity",
+        "previewText": "Organized a virtual team building activity to enhance team bonding and collaboration."
+      },
+      {
+        "id": 6,
+        "title": "Product Launch Preparation",
+        "previewText": "Finalized the checklist for the upcoming product launch and assigned responsibilities to team members."
+      },
+      {
+        "id": 7,
+        "title": "Sales Strategy Meeting",
+        "previewText": "Discussed new sales strategies to boost product sales in the next quarter."
+      },
+      {
+        "id": 8,
+        "title": "Technical Workshop",
+        "previewText": "Conducted a workshop on the latest technologies and best practices in the industry."
+      },
+      {
+        "id": 9,
+        "title": "Marketing Campaign Planning",
+        "previewText": "Planned the details of the upcoming marketing campaign, including target audience and key messages."
+      },
+      {
+        "id": 10,
+        "title": "Customer Support Training",
+        "previewText": "Held a training session for the customer support team to improve response times and service quality."
+      },
+      {
+        "id": 11,
+        "title": "Operational Efficiency Meeting",
+        "previewText": "Reviewed current operational processes and identified areas for improvement."
+      }
+    ]
+  }
+  
